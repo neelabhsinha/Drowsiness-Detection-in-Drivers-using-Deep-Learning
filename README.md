@@ -26,9 +26,26 @@ The results of training accuracies vs. epochs are shown below. Complete details 
 <img src="/Model & Training Results/Baseline_Acc.png" align="center" width="40%"/>
 <img src="/Model & Training Results/Final_acc.png" align="center" width="40%"/>
 
-## Results - 
+## Results & Conclusions - 
 
-Model | Accuracy |
-------|----------|
-Baseline Model | 68.6% |
-Final Model | 73.2 % |
+S. No. | Model | Accuracy |
+-------|------|----------|
+1 | Baseline Model | 68.6% |
+2 | Final Model | 73.2 % |
+
+- VGG16 model identifies features more effectively than the engineered baseline model because of more depth in the architecture, which allows it to identifiy both lower level and higher level features 
+- Transfer learning helps us to make the training faster as the initial layers are used to identify local features only, which are same for almost all models. So, freezing the initial layers allows us to speed-up the training remarkably
+- Features like dropout, regularization, etc. allows us to make the model more robust
+- Ultimately, due to many such improvements done in the final model, it significantly outperforms the baseline model in terms of detection
+
+## Steps to execute the code in this reposirory:
+
+1. Install Anaconda Distribution and all relevant libraries
+
+2. Open up the terminal and type -
+
+``` cmd
+$git clone https://github.com/neelabhsinha/Drowsiness-Detection-in-Drivers-using-Deep-Learning.git
+$cd Drowsiness-Detection-in-Drivers-using-Deep-Learning
+$jupyter notebook
+```
