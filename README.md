@@ -42,7 +42,9 @@ S. No. | Model | Accuracy |
 
 1. Install Anaconda Distribution and all relevant libraries
 
-2. Open up the terminal and type -
+2. Get the licensed NTHU DDD Dataset
+
+3. Open up the terminal and type -
 
 ``` cmd
 $git clone https://github.com/neelabhsinha/Drowsiness-Detection-in-Drivers-using-Deep-Learning.git
