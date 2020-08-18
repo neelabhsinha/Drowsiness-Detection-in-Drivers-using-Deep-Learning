@@ -23,9 +23,9 @@ Two models are developed in this project, they are described as follows -
 The results of training accuracies vs. epochs are shown below. Complete details of architecture and results can be viewed from the [Model & Training Results](/Model & Training Results) folder.
 
 For Baseline Model -
-<img src="/Model & Training Results/Baseline_Acc.png.png" align="center" width="30%"/>
+<img src="/Model & Training Results/Baseline_Acc.png" align="center" width="70%"/>
 For Final Model -
-<img src="/Model & Training Results/Final_acc.png" align="center" width="30%"/>
+<img src="/Model & Training Results/Final_acc.png" align="center" width="70%"/>
 
 ## Results - 
 
