@@ -1,7 +1,7 @@
 # Drowsiness Detection in Drivers using Deep Learning
 This repository contains the files related to the project on frame-by-frame Drowsiness Detection in Drivers in videos using facial features. In this project, the aim is to extract frames from a video based data and develop a CNN model that aims to detect fatigue in a driver using facial features. A CNN-based architecture is developed for the same.
 
-Complete details regarding the project can be viewed from the detailed [Project Report](/Project Report.pdf)
+Complete details regarding the project can be viewed from the detailed [Project Report](https://github.com/neelabhsinha/Drowsiness-Detection-in-Drivers-using-Deep-Learning/blob/master/Project%20Report.pdf)
 
 Dataset - [NTHU Drivers' Drowsiness Detection Dataset](http://cv.cs.nthu.edu.tw/php/callforpaper/datasets/DDD/)
 
@@ -20,7 +20,7 @@ Two models are developed in this project, they are described as follows -
 
 ## Training -
 
-The results of training accuracies vs. epochs are shown below. Complete details of architecture and results can be viewed from the [Model & Training Results](/Model & Training Results) folder. Figure 1 is of Baseline Model, and Figure 2 is of Final Model.
+The results of training accuracies vs. epochs are shown below. Complete details of architecture and results can be viewed from the [Model & Training Results](https://github.com/neelabhsinha/Drowsiness-Detection-in-Drivers-using-Deep-Learning/tree/master/Model%20%26%20Training%20Results) folder. Figure 1 is of Baseline Model, and Figure 2 is of Final Model.
 
 
 <img src="/Model & Training Results/Baseline_Acc.png" align="center" width="40%"/>
