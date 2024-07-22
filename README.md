@@ -11,6 +11,8 @@ Complete details regarding the project can be viewed from the detailed [Project 
 
 Dataset - [NTHU Drivers' Drowsiness Detection Dataset](http://cv.cs.nthu.edu.tw/php/callforpaper/datasets/DDD/)
 
+Team Members - Manav Kaushik, Neelabh Sinha
+
 ## Models -
 
 Two models are developed in this project, they are described as follows -
