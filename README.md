@@ -1,6 +1,9 @@
 # Drowsiness Detection in Drivers using Deep Learning
 
----
+![Type](https://img.shields.io/badge/Type-Research_Project-yellow)
+![Concepts](https://img.shields.io/badge/Concepts-Deep_Learning,_Computer_Vision-blue)
+![Language](https://img.shields.io/badge/Language-Python-red)
+![Libraries](https://img.shields.io/badge/Libraries-Keras,_Tensorflow,_Scikit_Learn-green)
 
 This repository contains the files related to the project on frame-by-frame Drowsiness Detection in Drivers in videos using facial features. In this project, the aim is to extract frames from a video based data and develop a CNN model that aims to detect fatigue in a driver using facial features. A CNN-based architecture is developed for the same.
 
@@ -54,3 +57,5 @@ $git clone https://github.com/neelabhsinha/Drowsiness-Detection-in-Drivers-using
 $cd Drowsiness-Detection-in-Drivers-using-Deep-Learning
 $jupyter notebook
 ```
+
+Start executing the cells.
